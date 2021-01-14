@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--统一标题styleable-->
+    <declare-styleable name="ToolBarTitleView">
+        <attr name="Toolbar_height" format="dimension" />
+        <attr name="Toolbar_title" format="string" />
+        <attr name="Toolbar_title_size" format="dimension" />
+        <attr name="Toolbar_root_view_color" format="color|reference" />
+        <attr name="Toolbar_title_test_color" format="color" />
+        <attr name="Toolbar_left_img_Drawable" format="color|reference" />
+        <attr name="Toolbar_right_img_Drawable" format="color|reference" />
+        <attr name="Toolbar_right_img_Drawable2" format="color|reference" />
+        <attr name="Toolbar_right_test" format="string" />
+        <attr name="Toolbar_right_size" format="dimension" />
+        <attr name="Toolbar_right_test_color" format="color" />
+        <attr name="Toolbar_right_test_visible" format="integer" />
+        <attr name="Toolbar_left_img_Drawable_visible" format="boolean" />
+    </declare-styleable>
+</resources>
